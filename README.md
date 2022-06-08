@@ -1,7 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=26689A&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=JJH%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khunjeong)](https://github.com/khunjeong/github-readme-stats)
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khunjeong&show_icons=true&theme=radical)
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 <!--
 **khunjeong/khunjeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
