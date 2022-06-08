@@ -1,7 +1,11 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=26689A&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=JJH%20GitHub%20Profile&descAlignY=51&descAlign=62)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khunjeong)](https://github.com/khunjeong/github-readme-stats)
 
 <!--
 **khunjeong/khunjeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khunjeong)](https://github.com/khunjeong/github-readme-stats)
 
 Here are some ideas to get you started:
 
